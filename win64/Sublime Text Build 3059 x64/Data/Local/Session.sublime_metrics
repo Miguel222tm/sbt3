@@ -1,9 +1,7 @@
 {
-	"licensed": true,
-	"startup_sec": 0.2862152,
 	"syntax":
 	{
-		"PHP": 23
+		"Markdown": 1
 	},
-	"time": 1414878196
+	"time": 1415029593
 }
